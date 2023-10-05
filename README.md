@@ -11,7 +11,7 @@ If you use this dataset in your research, please use the following citation:
 ```
 @misc{agoudar2023raloc,
       title = {UTIAS Range-Aided Localization Dataset}, 
-      author = {Abhishek Goudar and Angela P. Schoellig},
+      author = {Abhishek Goudar, Wenda Zhao, and Angela P. Schoellig},
       year= {2023},
       url = {https://github.com/abhigoudar/utias_ra_loc}
 }
