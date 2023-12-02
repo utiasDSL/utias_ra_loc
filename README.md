@@ -9,12 +9,13 @@ A detailed description of the dataset can be found at [Dataset description](http
 If you use this dataset in your research, please use the following citation:
 
 ```
-@misc{agoudar2023raloc,
-      title = {UTIAS Range-Aided Localization Dataset}, 
-      author = {Abhishek Goudar, Wenda Zhao, and Angela P. Schoellig},
-      year= {2023},
-      url = {https://github.com/abhigoudar/utias_ra_loc}
-}
+@misc{goudar2023rangevisualinertial,
+      title={Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation}, 
+      author={Abhishek Goudar and Wenda Zhao and Angela P. Schoellig},
+      year={2023},
+      eprint={2311.09056},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 ```
 ## Issues
 Please report any problems by reporting an issue on the [GitHub Issue Tracker](https://github.com/utiasDSL/utias_ra_loc/issues).
