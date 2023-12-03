@@ -9,13 +9,15 @@ A detailed description of the dataset can be found at [Dataset description](http
 If you use this dataset in your research, please use the following citation:
 
 ```
-@misc{goudar2023rangevisualinertial,
-      title={Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation}, 
-      author={Abhishek Goudar and Wenda Zhao and Angela P. Schoellig},
-      year={2023},
-      eprint={2311.09056},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@ARTICLE{goudar2023rangevisualinertial,
+  author={Goudar, Abhishek and Zhao, Wenda and Schoellig, Angela P.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2023.3335772}}
 ```
 ## Issues
 Please report any problems by reporting an issue on the [GitHub Issue Tracker](https://github.com/utiasDSL/utias_ra_loc/issues).
