@@ -9,7 +9,7 @@ A detailed description of the dataset can be found at [Dataset description](http
 If you use this dataset in your research, please use the following citation:
 
 ```
-@ARTICLE{goudar2023rangevisualinertial,
+@INPROCEEDINGS{goudar2023rangevisualinertial,
   author={Goudar, Abhishek and Zhao, Wenda and Schoellig, Angela P.},
   journal={IEEE Robotics and Automation Letters}, 
   title={Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation}, 
